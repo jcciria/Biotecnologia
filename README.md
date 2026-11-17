@@ -1,4 +1,4 @@
-# Biotecnologia
+# Biotecnología
 Apuntes y ejercicios para Informática, del Grado en Biotecnología
 
 ## Sentencias elementales
