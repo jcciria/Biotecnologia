@@ -4,7 +4,7 @@ Apuntes y ejercicios para Informática, del Grado en Biotecnología
 
 ### 01: Sentencias elementales
 
-[🚀 Abrir SentenciasElementales en Google Colab](https://colab.research.google.com/github/jcciria/Biotecnologia/blob/main/Ejercicios/SentenciasElementales.ipynb)
+[![Google Colab](https://cdn.simpleicons.org/googlecolab/F9AB00)](https://colab.research.google.com/github/jcciria/Biotecnologia/blob/main/SentenciasElementales.ipynb)
 
 [Ejecutar en JupyterLite](https://jupyterlab-plugin-playground.readthedocs.io/en/latest/lite/lab/index.html?fromURL=https://raw.githubusercontent.com/jcciria/Biotecnologia/main/Ejercicios/SentenciasElementales.ipynb)
 
